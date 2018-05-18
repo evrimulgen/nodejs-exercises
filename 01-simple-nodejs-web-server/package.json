@@ -1,0 +1,12 @@
+{
+  "name": "01-simple-nodejs-web-server",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Author Name <author-email> (http://authorurl.github.io/)",
+  "license": "MIT"
+}

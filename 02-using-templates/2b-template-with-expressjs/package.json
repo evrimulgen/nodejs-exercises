@@ -1,0 +1,16 @@
+{
+  "name": "2b-template-with-expressjs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "2.5.7",
+    "express": "4.16.2"
+  }
+}

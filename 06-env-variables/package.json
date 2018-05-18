@@ -1,0 +1,16 @@
+{
+  "name": "06-env-variables",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aman Mittal <amandeepmittal@live.com> (http://amandeepmittal.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "4.0.0",
+    "express": "4.16.2"
+  }
+}
